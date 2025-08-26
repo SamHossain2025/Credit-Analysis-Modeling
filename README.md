@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.png" alt="Project Banner" width="100%">
+</p>
+
 🧠 Customized Credit Risk Model for a Real-World Fintech Client
 🔒 Data Privacy Notice
 
