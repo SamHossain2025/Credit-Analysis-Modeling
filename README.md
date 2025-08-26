@@ -27,7 +27,8 @@ This project showcases the development of a predictive credit analytics solution
 ## 📊 What’s Included
 
 - 📓 Data Analysis & Modeling.ipynb
-  The full notebook with:
+
+The full notebook with:
   - Data wrangling (with synthetic columns for structure)
   - Missing value imputation (KNN & Iterative)
   - EDA, visualization, and hypothesis generation
