@@ -34,8 +34,9 @@ This project showcases the development of a predictive credit analytics solution
   - Predictive modeling using logistic regression, random forest, and XGBoost
   - Business-driven interpretation of results
 
-- 📄 Parachute.pdf
-  Executive summary deck highlighting model insights, business recommendations, and strategy implications.
+- 📄 Presentation.pdf
+
+Executive summary deck highlighting model insights, business recommendations, and strategy implications.
 
 ---
 
