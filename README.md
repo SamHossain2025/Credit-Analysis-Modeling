@@ -26,7 +26,7 @@ This project showcases the development of a predictive credit analytics solution
 
 ## 📊 What’s Included
 
-- 📓 Data Analysis & Modeling.ipynb
+📓 Data Analysis & Modeling.ipynb
 
 The full notebook with:
 - Data wrangling (with synthetic columns for structure)
@@ -35,7 +35,7 @@ The full notebook with:
 - Predictive modeling using logistic regression, random forest, and XGBoost
 - Business-driven interpretation of results
 
-- 📄 Presentation.pdf
+📄 Presentation.pdf
 
 Executive summary deck highlighting model insights, business recommendations, and strategy implications.
 
