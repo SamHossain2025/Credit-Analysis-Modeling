@@ -29,11 +29,11 @@ This project showcases the development of a predictive credit analytics solution
 - 📓 Data Analysis & Modeling.ipynb
 
 The full notebook with:
-  - Data wrangling (with synthetic columns for structure)
-  - Missing value imputation (KNN & Iterative)
-  - EDA, visualization, and hypothesis generation
-  - Predictive modeling using logistic regression, random forest, and XGBoost
-  - Business-driven interpretation of results
+- Data wrangling (with synthetic columns for structure)
+- Missing value imputation (KNN & Iterative)
+- EDA, visualization, and hypothesis generation
+- Predictive modeling using logistic regression, random forest, and XGBoost
+- Business-driven interpretation of results
 
 - 📄 Presentation.pdf
 
