@@ -59,6 +59,6 @@ Executive summary deck highlighting model insights, business recommendations, an
 
 ---
 
-## 🖼️ Visual Snapshots (below):
+## 🖼️ Visual Snapshots:
 Note: These slides are for visual summary only. Full details are in the PDF.
 
