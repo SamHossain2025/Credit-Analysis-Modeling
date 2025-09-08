@@ -8,7 +8,7 @@
 
 * Topics covered: **Credit Analytics, Behavioral Modeling, Customer Engagement**
 * Models used: **Logistic Regression, Random Forest, XGBoost**
-* Skills demonstrated: **Data Cleaning, Feature Engineering, Classification, Imputation**
+* Skills demonstrated: **Feature Engineering, Classification, Imputation**
 * Expected outcome:
 
   * **Predict default & repayment behavior**
