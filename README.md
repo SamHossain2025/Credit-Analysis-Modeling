@@ -6,15 +6,9 @@
 
 *A predictive model for assessing default risk and user engagement using real-world fintech data, enhancing strategic credit decisions.*
 
-* Topics covered:
-
-**Credit Analytics, Behavioral Modeling, Customer Engagement**
-* Models used:
-
-**Logistic Regression, Random Forest, XGBoost**
-* Skills demonstrated:
-
-**Data Cleaning, Feature Engineering, Classification, Imputation**
+* Topics covered:**Credit Analytics, Behavioral Modeling, Customer Engagement**
+* Models used:**Logistic Regression, Random Forest, XGBoost**
+* Skills demonstrated:**Data Cleaning, Feature Engineering, Classification, Imputation**
 * Expected outcome:
 
   * **Predict default & repayment behavior**
