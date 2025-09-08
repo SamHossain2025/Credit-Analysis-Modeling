@@ -95,18 +95,6 @@ Build a customized credit analysis model to predict repayment and engagement suc
 
 ---
 
-## 📊 Output Dashboard
-
-<p align="center">
-  <img src="3 Assets/Dashboard1.png" width="80%">
-  <img src="3 Assets/Dashboard2.png" width="80%">
-  <img src="3 Assets/Dashboard3.png" width="80%">
-  <img src="3 Assets/Dashboard4.png" width="80%">
-  <img src="3 Assets/Dashboard5.png" width="80%">
-</p>
-
----
-
 ## 🚀 How to Run This Project
 
 1. **Clone the repository**
