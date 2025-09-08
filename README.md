@@ -12,11 +12,18 @@
 * Models used:
 
 **Logistic Regression, Random Forest, XGBoost**
-* Skills demonstrated: **Data Cleaning, Feature Engineering, Classification, Imputation**
+* Skills demonstrated:
+
+**Data Cleaning, Feature Engineering, Classification, Imputation**
 * Expected outcome:
 
   * **Predict default & repayment behavior**
   * **Recommend engagement strategies to reduce risk**
+
+---
+🔒 Data Privacy Notice
+
+This repository does not include or expose any raw data due to confidentiality agreements. All analysis is based on proprietary financial and behavioral datasets provided by the client.
 
 ---
 
@@ -29,6 +36,7 @@
 ## 🔍 Problem Statement
 
 **Goal:**
+
 Build a customized credit analysis model to predict repayment and engagement success using psychographic, credit, and behavioral data.
 
 **Challenges Addressed:**
@@ -64,6 +72,7 @@ Build a customized credit analysis model to predict repayment and engagement suc
   <img src="3 Assets/Model1.png" width="80%">
   <img src="3 Assets/Model2.png" width="80%">
   <img src="3 Assets/Model3.png" width="80%">
+  <img src="3 Assets/Model4.png" width="80%">
 </p>
 
 ### 💼 Strategic Implementation Flow
@@ -76,35 +85,19 @@ Build a customized credit analysis model to predict repayment and engagement suc
 
 ---
 
-## 🧪 Key Findings
+## 🎯 Key Findings
 
 * Engagement frequency (especially quizzes + mood tracking) strongly correlated with financial wellbeing score
 * Write-offs often preceded by a drop in engagement >30 days prior to default
 * Psychographic variables (e.g., Aptitude for Change) were better predictors than FICO in early signals
 
-<p align="center">
-  <img src="3 Assets/Findings1.png" width="80%">
-  <img src="3 Assets/Findings2.png" width="80%">
-  <img src="3 Assets/Findings3.png" width="80%">
-  <img src="3 Assets/Findings4.png" width="80%">
-  <img src="3 Assets/Findings5.png" width="80%">
-</p>
-
 ---
 
-## 🧪 Key Recommendations
+## 💡 Key Recommendations
 
 * Prioritize app engagement as a leading indicator of financial stress
 * Incorporate psychographic variables into loan approval and monitoring
 * Build automated risk flags from daily behavioral inputs (e.g., activity decline)
-
-<p align="center">
-  <img src="3 Assets/Recommendation1.png" width="80%">
-  <img src="3 Assets/Recommendation2.png" width="80%">
-  <img src="3 Assets/Recommendation3.png" width="80%">
-  <img src="3 Assets/Recommendation4.png" width="80%">
-  <img src="3 Assets/Recommendation5.png" width="80%">
-</p>
 
 ---
 
@@ -147,7 +140,7 @@ Build a customized credit analysis model to predict repayment and engagement suc
 
 ---
 
-## 📊 Data Sources
+## 🧬 Data Sources
 
 * 📌 Proprietary data from a Canadian financial wellness company (not published for confidentiality)
 
