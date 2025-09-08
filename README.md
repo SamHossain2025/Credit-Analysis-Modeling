@@ -6,6 +6,7 @@
 
 *A predictive model for assessing default risk and user engagement using real-world fintech data, enhancing strategic credit decisions.*
 
+* Dataset timeline: **2022 July – 2024 October**
 * Topics covered: **Credit Analytics, Behavioral Modeling, Customer Engagement**
 * Models used: **Logistic Regression, Random Forest, XGBoost**
 * Skills demonstrated: **Feature Engineering, Classification, Imputation**
